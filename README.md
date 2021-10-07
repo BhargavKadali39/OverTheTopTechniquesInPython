@@ -28,3 +28,11 @@ Let's get to the topics I covered in this repo,
 <h2>concatenating strings</h2>
 When we take input from user and store every char as a seperate element in a list we don't have to use a loop to join them all.
 using join() command we can achieve that easily
+
+    my_input = ["h","e","l","l","o"]
+    my_output = "".join(my_input)
+    print(my_output)
+    
+    output: hello
+    
+This is how it's done.
