@@ -44,3 +44,6 @@ lemme shoe how to reverse a string using it.
         print(my_string[::-1])
         
         output: yppah dna yhtlaeh mi
+
+<h2>Using ZIP() function for list</h2>
+We can add multiple lists together if they all have the same length.
