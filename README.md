@@ -36,3 +36,6 @@ using join() command we can achieve that easily
     output: hello
     
 That's how it's done.
+<h2>string reverse</h2>
+This : is the Slice operator in python.
+lemme shoe how to reverse a string using it.
