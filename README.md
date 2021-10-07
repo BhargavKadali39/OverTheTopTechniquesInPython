@@ -35,4 +35,4 @@ using join() command we can achieve that easily
     
     output: hello
     
-This is how it's done.
+That's how it's done.
