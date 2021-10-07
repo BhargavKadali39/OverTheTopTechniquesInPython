@@ -39,3 +39,8 @@ That's how it's done.
 <h2>string reverse</h2>
 This : is the Slice operator in python.
 lemme shoe how to reverse a string using it.
+
+        my_string = "im healthy and happy"
+        print(my_string[::-1])
+        
+        output: yppah dna yhtlaeh mi
