@@ -47,3 +47,12 @@ lemme shoe how to reverse a string using it.
 
 <h2>Using ZIP() function for list</h2>
 We can add multiple lists together if they all have the same length.
+
+        list_1 = ["you","so"]
+        list_2 = ["are","smart"]
+        for list_1,list_2 in zip(list_1,list_2):
+            print(list_1,list_2)
+            
+            output:     you are
+                        so smart
+
