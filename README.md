@@ -58,3 +58,4 @@ We can add multiple lists together if they all have the same length.
                         so smart
 
 <h2>Walrus operator</h2>
+Note: In order to make this operator work you need to have the latest python version.
