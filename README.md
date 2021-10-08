@@ -62,4 +62,8 @@ Note: In order to make this operator work you need to have the latest python ver
 which is availabe on official python website.
 
 
-The walrus operator is used to assign value while condition checking, therefore optimizing the code.
+The walrus operator is used to assign value and initialize at the same time while condition checking, therefore optimizing the code.
+
+        my_list = [1,2,3,4,5]
+        if (n:=len(my_list)>4):
+            print(n)
