@@ -67,3 +67,5 @@ The walrus operator is used to assign value and initialize at the same time whil
         my_list = [1,2,3,4,5]
         if (n:=len(my_list)>4):
             print(n)
+            
+            Output: True
