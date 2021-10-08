@@ -60,3 +60,6 @@ We can add multiple lists together if they all have the same length.
 <h2>Walrus operator</h2>
 Note: In order to make this operator work you need to have the latest python version,  
 which is availabe on official python website.
+
+
+The walrus operator is used to assign value while condition checking, therefore optimizing the code.
